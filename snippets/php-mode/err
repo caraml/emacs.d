@@ -1,0 +1,5 @@
+#contributor : Satoshi Nishimura <nishim314@gmail.com>
+#name : err ( ... )
+#group : definitions
+# --
+error_log($1);

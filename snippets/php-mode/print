@@ -1,0 +1,5 @@
+#contributor : Satoshi Nishimura <nishim314@gmail.com>
+#name : print ( ... )
+#group : difinitions
+# --
+print_r($1);

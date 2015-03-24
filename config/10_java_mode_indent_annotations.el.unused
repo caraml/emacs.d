@@ -1,0 +1,5 @@
+;; java-mode-indent-annotations
+(require 'java-mode-indent-annotations)
+(defun my-java-mode-hook()
+  (java-mode-indent-annotations-setup))
+(add-hook 'java-mode-hook 'my-java-mode-hook)

@@ -1,0 +1,21 @@
+#contributor : Satoshi Nishimura <nishim314@gmail.com>
+#name : <?php /* ... */ class ...{...} 
+#group : definitions
+# --
+<?php
+/**
+ * ${1:`(file-name-sans-extension (file-name-nondirectory (buffer-file-name)))`}
+ *
+ * ${2:description}
+ *
+ * @package   ${3:package}
+ * @author    `user-full-name` <`user-mail-address`>
+ * @copyright Copyright (c) ${4:`(format-time-string "%Y" (current-time))`} ${5:copyright}
+ */
+class $1 ${6} ${7}
+{
+   public function ${9:__construct}()
+   {
+      $0
+   }
+}

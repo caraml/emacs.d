@@ -1,0 +1,15 @@
+### http://qiita.com/daimatz/items/f8c27d37052e2e573504
+
+### Emacs ###
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+ac-comphist.dat
+/el-get/
+/ac-dict/
+/config/*.elc
