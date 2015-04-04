@@ -6,7 +6,7 @@
 
 ```
 $ curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python
-$ git clone git@git.corp.yahoo.co.jp:yakiyama/emacs.d.git ~/.emacs.d
+$ git clone https://github.com/caraml/emacs.d.git ~/.emacs.d
 $ cd .emacs.d
 $ cask install
 ```
